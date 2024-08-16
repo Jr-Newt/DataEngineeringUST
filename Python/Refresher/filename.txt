@@ -1,0 +1,2 @@
+
+write the content in the newfile.

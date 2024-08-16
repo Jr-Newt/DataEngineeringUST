@@ -1,0 +1,2 @@
+this is new content added to the new file.
+This is another content appended in the EOF.

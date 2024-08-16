@@ -1,0 +1,8 @@
+**/zomato_restaurants.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code settings
+.vscode/
